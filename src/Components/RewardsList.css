@@ -1,0 +1,31 @@
+th,td {
+    border: 1px solid #000;
+}
+
+th,td {
+    padding: 7px;
+}
+button {
+    background-color: green;
+    color: #fff;
+    border: 1px solid green;
+    padding: 7px;
+    border-radius: 6px;
+}
+button:hover {
+    background-color: darkgreen;
+    border: 1px solid darkgreen;
+}
+thead {
+    background: #7bbace;
+
+}
+tbody {
+    text-align: center;
+    /* background: #b7b1b1; */
+}
+.table-box {
+    background-color: lightgray;
+    width: fit-content;
+    padding: 10px;
+}
